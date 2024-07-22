@@ -1,4 +1,4 @@
-# EcologicalIntegrity_Guadiana
+# Estimation of the ecological integrity of the Guadiana River using models and simulation scenarios
 <b>Estimation of the ecological integrity of the Guadiana River with models </b><br>
  
 <b>Authors</b><br>
