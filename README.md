@@ -10,4 +10,4 @@ Ecological integrity is fundamental to human life and ecosystems, so its assessm
 <b>Dataset download</b> <br> Data available at: [OneDrive](https://universidadevigo-my.sharepoint.com/:x:/g/personal/sofia_villar_uvigo_gal/EV5QgmCV5sNCmEyrzYxEruABl-0idiCidZpY1XGytNYF_w?e=rXyGyI)
  
 <b>Link to the paper</b><br>
-Not avaialble yet
+(https://www.sciencedirect.com/science/article/pii/S0048969724064611)
